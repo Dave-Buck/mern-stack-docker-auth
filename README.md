@@ -1,2 +1,2 @@
 # mern-stack-docker-auth
- MERN stack with CRUD implemented with Docker
+ MERN stack with authentication and CRUD implemented with Docker
